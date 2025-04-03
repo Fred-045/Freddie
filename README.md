@@ -1,2 +1,0 @@
-# Freddie
-Personal portfolio
